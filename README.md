@@ -22,30 +22,7 @@ My work focuses on mathematically rigorous approaches for developing safe, relia
 
 ## Featured Projects
 
-### [Project Name]
-Short description of the project.
-
-**Topics:** Reinforcement Learning, Safe Control, Formal Verification
-
-[Repository Link]
-
----
-
-### [Project Name]
-Short description of the project.
-
-**Topics:** Autonomous Systems, Planning, Verification
-
-[Repository Link]
-
----
-
-### [Project Name]
-Short description of the project.
-
-**Topics:** Control Theory, Learning-Enabled Systems, Simulation
-
-[Repository Link]
+📌 Pinned Repositories
 
 ---
 
@@ -62,11 +39,11 @@ https://scholar.google.com/citations?user=7H8l-xMAAAAJ&hl=en
 - Python
 - C++
 - MATLAB
+- Julia
 - Scientific Computing
 
 **Machine Learning & AI**
 - PyTorch
-- JAX
 - Reinforcement Learning
 - Machine Learning
 
@@ -81,10 +58,10 @@ https://scholar.google.com/citations?user=7H8l-xMAAAAJ&hl=en
 
 ## Current Focus
 
+- Formal methods for learning-enabled systems
 - Trustworthy and verifiable AI systems
 - Reinforcement learning for autonomous systems
 - Safe autonomy and intelligent control
-- Formal methods for learning-enabled systems
 - AI for safety-critical environments
 
 ---
