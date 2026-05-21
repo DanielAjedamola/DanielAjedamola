@@ -91,5 +91,5 @@ https://scholar.google.com/citations?user=7H8l-xMAAAAJ&hl=en
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/daceaje
+- LinkedIn: https://linkedin.com/in/daceaje
 - Google Scholar: https://scholar.google.com/citations?user=7H8l-xMAAAAJ&hl=en
