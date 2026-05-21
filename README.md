@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DanielAjedamola/DanielAjedamola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel Ajeleye, a Research Scientist working at the intersection of autonomous systems, trustworthy AI, formal verification, control, and reinforcement learning for learning-enabled systems.
 
-Here are some ideas to get you started:
+My work focuses on mathematically rigorous approaches for developing safe, reliable, and intelligent autonomous systems operating in complex and uncertain environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+- Autonomous Systems
+- Formal Verification
+- Reinforcement Learning
+- Control Theory
+- Trustworthy AI
+- Learning-Enabled Systems
+- Cyber-Physical Systems
+- Safe Autonomy
+- Intelligent Decision-Making Systems
+
+---
+
+## Featured Projects
+
+### [Project Name]
+Short description of the project.
+
+**Topics:** Reinforcement Learning, Safe Control, Formal Verification
+
+[Repository Link]
+
+---
+
+### [Project Name]
+Short description of the project.
+
+**Topics:** Autonomous Systems, Planning, Verification
+
+[Repository Link]
+
+---
+
+### [Project Name]
+Short description of the project.
+
+**Topics:** Control Theory, Learning-Enabled Systems, Simulation
+
+[Repository Link]
+
+---
+
+## Publications
+
+📚 Google Scholar:
+https://scholar.google.com/citations?user=7H8l-xMAAAAJ&hl=en
+
+---
+
+## Technical Stack
+
+**Languages & Computing**
+- Python
+- C++
+- MATLAB
+- Scientific Computing
+
+**Machine Learning & AI**
+- PyTorch
+- JAX
+- Reinforcement Learning
+- Machine Learning
+
+**Systems & Research Areas**
+- Formal Verification
+- Autonomous Systems
+- Control Theory
+- Optimization
+- System Modeling
+
+---
+
+## Current Focus
+
+- Trustworthy and verifiable AI systems
+- Reinforcement learning for autonomous systems
+- Safe autonomy and intelligent control
+- Formal methods for learning-enabled systems
+- AI for safety-critical environments
+
+---
+
+## Connect
+
+- LinkedIn: linkedin.com/in/daceaje
+- Google Scholar: https://scholar.google.com/citations?user=7H8l-xMAAAAJ&hl=en
