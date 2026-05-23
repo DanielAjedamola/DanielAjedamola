@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daniel Ajeleye, a Research Scientist working at the intersection of autonomous systems, trustworthy AI, formal verification, control, and reinforcement learning for learning-enabled systems.
+I'm Daniel Ajeleye, a Applied Scientist working at the intersection of autonomous systems, trustworthy AI, formal verification, control, and reinforcement learning for learning-enabled systems.
 
 My work focuses on mathematically rigorous approaches for developing safe, reliable, and intelligent autonomous systems operating in complex and uncertain environments.
 
